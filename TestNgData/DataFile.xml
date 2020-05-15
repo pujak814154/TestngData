@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="testsuit">
+<test name = "test1">
+<clesses>
+
+<class name="ngpackage.NewTestNg">
+</class>
+</clesses>
+</test>
+</suite>
